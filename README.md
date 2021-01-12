@@ -1,5 +1,7 @@
 # Django POC
 
+## Initialization
+
 * Installation of Django: `python -m pip install Django`
     * Verify: 
     
@@ -9,3 +11,7 @@
     ```
 
 Base structure created using `django-admin startproject pocdjango` 
+
+## Run
+
+* Start development server: `python manage.py runserver`
