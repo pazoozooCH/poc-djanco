@@ -15,3 +15,4 @@ Base structure created using `django-admin startproject pocdjango`
 ## Run
 
 * Start development server: `python manage.py runserver`
+    * Will automatically reload Python code on changes
