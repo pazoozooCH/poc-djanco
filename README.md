@@ -27,6 +27,7 @@ Base structure created using `django-admin startproject pocdjango`
 * Create migration files based on current model (e.g. for polls app): `python manage.py makemigrations polls`
 * Display migration skripts: `python manage.py sqlmigrate polls 0001`
 * Invoke Django Python shell: `python manage.py shell`
+* Run tests: `python manage.py test polls`
 
 ### Django Admin
 
